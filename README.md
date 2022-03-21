@@ -1,5 +1,19 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Descrição do Projeto
+
+O objetivo do jogo é encontar a porta premiada. Esse projeto foi inspirado no programa de telicação Mont Hall.
+
+Como jogar:
+
+Convide um parceiro(a) para jogar;
+Selecione a quantidade de portas;
+Escoha o número da porta premiada mais não conte ao seu parceiro;
+Ele(a) escolhe uma porta;
+A medida que você abrir uma porta, pergunte ao seu parceiro se ele deseja trocar a porta que ele escolheu;
+
+Boa diversão! :)
+
 ## Getting Started
 
 First, run the development server:
